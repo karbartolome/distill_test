@@ -1,0 +1,30 @@
+[
+  {
+    "path": "posts/post_1/",
+    "title": "Post category 1",
+    "description": "This post contains a category_1",
+    "author": [],
+    "date": "2023-04-07",
+    "categories": [
+      "category_1"
+    ],
+    "contents": "\r\nTest\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-04-07T14:49:01-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/post_2/",
+    "title": "Post category 2",
+    "description": "This post contains a category_2",
+    "author": [],
+    "date": "2023-04-07",
+    "categories": [
+      "category_2"
+    ],
+    "contents": "\r\nTest\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-04-07T14:48:40-03:00",
+    "input_file": {}
+  }
+]

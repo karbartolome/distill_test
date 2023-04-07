@@ -1,0 +1,16 @@
+---
+title: "Post category 2"
+description: |
+  This post contains a category_2
+date: 04-07-2023
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - category_2
+---
+
+Test
+
+
+
